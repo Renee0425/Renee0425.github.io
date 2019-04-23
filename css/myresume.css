@@ -2,15 +2,19 @@ html {
 	font-family: 'Noto Sans TC',sans-serif;
 }
 
+body {
+	font-family: 'Noto Sans TC',sans-serif;
+}
+
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Noto Sans TC',sans-serif;
 	text-transform: none;
 	letter-spacing: -0.05rem;
 }
 
-subheading {
+.subheading {
 	font-family: 'Noto Sans TC',sans-serif;
-	font-size: 1.2rem;
+	font-size: 1.5rem;
 	text-transform: none;
 	letter-spacing: -0.05rem;
 }
@@ -23,4 +27,16 @@ h1.text-primary {
 .bg-primary{
 	background-color: #5fdced !important;
 background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+}
+.table table-hover {
+	font-family: 'Noto Sans TC',sans-serif;
+	font-size: 1.5rem;
+	text-transform: none;
+	letter-spacing: -0.05rem;
+}
+.fa-ul{
+	font-family: 'Noto Sans TC',sans-serif;
+	font-size: 1.2rem;
+	text-transform: none;
+	letter-spacing: -0.05rem;
 }
